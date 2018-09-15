@@ -1,7 +1,6 @@
 {
   "name": "slkxmail/clickhouse-client",
   "description": "simple php clickhouse client",
-  "minimum-stability": "dev-master",
   "license": "MIT",
   "authors": [
     {
