@@ -1,5 +1,5 @@
 {
-  "name": "bozerkins/clickhouse-client",
+  "name": "slkxmail/clickhouse-client",
   "description": "simple php clickhouse client",
   "minimum-stability": "stable",
   "license": "MIT",
